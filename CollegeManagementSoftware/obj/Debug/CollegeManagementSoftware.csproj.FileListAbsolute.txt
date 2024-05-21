@@ -1,0 +1,14 @@
+c:\users\kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\bin\Debug\CollegeManagementSoftware.exe.config
+c:\users\kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\bin\Debug\CollegeManagementSoftware.exe
+c:\users\kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\bin\Debug\CollegeManagementSoftware.pdb
+c:\users\kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.csprojResolveAssemblyReference.cache
+c:\users\kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.Form1.resources
+c:\users\kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.Properties.Resources.resources
+c:\users\kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.csproj.GenerateResource.Cache
+c:\users\kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.exe
+c:\users\kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.pdb
+c:\users\kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.Form2.resources
+C:\Users\Kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.Form3.resources
+C:\Users\Kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.Form4.resources
+C:\Users\Kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.Form5.resources
+C:\Users\Kaif\documents\visual studio 2012\Projects\CollegeManagementSoftware\CollegeManagementSoftware\obj\Debug\CollegeManagementSoftware.Form6.resources
